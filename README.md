@@ -31,7 +31,7 @@ React web application designed for users to enhance the online shopping experien
 - Related Products List
 - Your Outfit List
 
-##Technologies Used
+## Technologies Used
 - [React](https://reactjs.org/)
 - [Node](https://nodejs.org/en/)
 - [Express](https://expressjs.com/)

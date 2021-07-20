@@ -1,14 +1,42 @@
-# FEC
-Front End Capstone for Hack Reactor
+# Catwalk Threads
+React web application designed for users to enhance the online shopping experience.
 
-## Getting a Copy of the Repo
-If you haven't already, fork the repository on GitHub and clone your newly created repo down to your computer.
+## Main feature
 
-## Set Repo as Remote Upstream
-After you fork, set this repo as an upstream with `git remote add upstream https://github.com/teamDidMount/FEC.git`
+### Product Overview
+- Product Information
+- Style Selector
+- Add to Cart
+- Image Gallery with zoom in
+- Dark mode and light mode
 
-## Pull From Upstream Master Daily
-Before you begin coding for the day, pull from the upstream master branch with `git pull upstream master`.
+### Ratings & Reviews
+- Write new review
+- Reviews List
+- Sorting 
+- Rating Breakdown
+- Product Breakdown
+
+
+### Questions & Answers
+- View questions
+- Search for a question
+- Asking a question
+- Answering a question
+
+
+### Related Items & Outfit Creation
+- Related Product Cards
+- List Behavior
+- Related Products List
+- Your Outfit List
+
+##Technologies Used
+- [React](https://reactjs.org/)
+- [Node](https://nodejs.org/en/)
+- [Express](https://expressjs.com/)
+- [CSS](https://github.com/css-modules/css-modules)
+- [AWS EC2](https://aws.amazon.com/?nc2=h_lg)
 
 ## How to Run
 Navigate to the root directory of FEC, then install the required packages by running `npm install` in your terminal. To begin, first compile the by running `npm run react:dev`, then start the server by running `npm start:dev`. Lastly, navigate to `http://localhost:1128` in your browser.
